@@ -1,0 +1,1808 @@
+[
+ {
+  "retro": true,
+  "home": "Mexico",
+  "away": "South Africa",
+  "date": "2026-06-11",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3072,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3983,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.1117,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Korea Republic",
+  "away": "Czech Republic",
+  "date": "2026-06-12",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.661,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4494,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.6141,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Canada",
+  "away": "Bosnia and Herzegovina",
+  "date": "2026-06-12",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4971,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5368,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0972,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Qatar",
+  "away": "Switzerland",
+  "date": "2026-06-13",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.6242,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.647,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1487,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Brazil",
+  "away": "Morocco",
+  "date": "2026-06-13",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.1538,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2504,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0672,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "United States",
+  "away": "Paraguay",
+  "date": "2026-06-13",
+  "score": "4-1",
+  "props": {
+   "over2.5": {
+    "p": 0.1021,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.1926,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0762,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Netherlands",
+  "away": "Japan",
+  "date": "2026-06-14",
+  "score": "2-2",
+  "props": {
+   "over2.5": {
+    "p": 0.3128,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3123,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0253,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Haiti",
+  "away": "Scotland",
+  "date": "2026-06-14",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.7224,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.7021,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.3444,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Australia",
+  "away": "T\u00fcrkiye",
+  "date": "2026-06-14",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5326,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5107,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.3765,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "C\u00f4te d'Ivoire",
+  "away": "Ecuador",
+  "date": "2026-06-14",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.032,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.0317,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.1209,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Germany",
+  "away": "Curacao",
+  "date": "2026-06-14",
+  "score": "7-1",
+  "props": {
+   "over2.5": {
+    "p": 0.5042,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5623,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1806,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Belgium",
+  "away": "Egypt",
+  "date": "2026-06-15",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.0932,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.1468,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0178,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Sweden",
+  "away": "Tunisia",
+  "date": "2026-06-15",
+  "score": "5-1",
+  "props": {
+   "over2.5": {
+    "p": 0.1545,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.0839,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.002,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Saudi Arabia",
+  "away": "Uruguay",
+  "date": "2026-06-15",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.1866,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2881,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1056,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Spain",
+  "away": "Cape Verde Islands",
+  "date": "2026-06-15",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.9072,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2399,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.9414,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "Senegal",
+  "date": "2026-06-16",
+  "score": "3-1",
+  "props": {
+   "over2.5": {
+    "p": 0.5357,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5839,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2192,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Iran",
+  "away": "New Zealand",
+  "date": "2026-06-16",
+  "score": "2-2",
+  "props": {
+   "over2.5": {
+    "p": 0.4763,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.357,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0157,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Iraq",
+  "away": "Norway",
+  "date": "2026-06-16",
+  "score": "1-4",
+  "props": {
+   "over2.5": {
+    "p": 0.3098,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4049,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1047,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Argentina",
+  "away": "Algeria",
+  "date": "2026-06-17",
+  "score": "3-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5066,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4604,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.4116,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "England",
+  "away": "Croatia",
+  "date": "2026-06-17",
+  "score": "4-2",
+  "props": {
+   "over2.5": {
+    "p": 0.3207,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3045,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3458,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Austria",
+  "away": "Jordan",
+  "date": "2026-06-17",
+  "score": "3-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4336,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4947,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2289,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Portugal",
+  "away": "Congo DR",
+  "date": "2026-06-17",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.5749,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5149,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.4348,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Ghana",
+  "away": "Panama",
+  "date": "2026-06-17",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3783,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4637,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.1602,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Uzbekistan",
+  "away": "Colombia",
+  "date": "2026-06-18",
+  "score": "1-3",
+  "props": {
+   "over2.5": {
+    "p": 0.3683,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4346,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2264,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Czech Republic",
+  "away": "South Africa",
+  "date": "2026-06-18",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4717,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5017,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2909,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Switzerland",
+  "away": "Bosnia and Herzegovina",
+  "date": "2026-06-18",
+  "score": "4-1",
+  "props": {
+   "over2.5": {
+    "p": 0.5208,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3913,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.507,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Canada",
+  "away": "Qatar",
+  "date": "2026-06-18",
+  "score": "6-0",
+  "props": {
+   "over2.5": {
+    "p": 0.6723,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6792,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2797,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Mexico",
+  "away": "Korea Republic",
+  "date": "2026-06-19",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.2266,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2689,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2453,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "United States",
+  "away": "Australia",
+  "date": "2026-06-19",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5309,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4978,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.3949,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Scotland",
+  "away": "Morocco",
+  "date": "2026-06-19",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.223,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3261,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0907,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Germany",
+  "away": "C\u00f4te d'Ivoire",
+  "date": "2026-06-20",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.0794,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.1581,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0347,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Brazil",
+  "away": "Haiti",
+  "date": "2026-06-20",
+  "score": "3-0",
+  "props": {
+   "over2.5": {
+    "p": 0.6911,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4618,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.6394,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "T\u00fcrkiye",
+  "away": "Paraguay",
+  "date": "2026-06-20",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4005,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4401,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2775,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Netherlands",
+  "away": "Sweden",
+  "date": "2026-06-20",
+  "score": "5-1",
+  "props": {
+   "over2.5": {
+    "p": 0.7201,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5881,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.5462,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Spain",
+  "away": "Saudi Arabia",
+  "date": "2026-06-21",
+  "score": "4-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5987,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2335,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.7067,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Belgium",
+  "away": "Iran",
+  "date": "2026-06-21",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.562,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5961,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2436,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Ecuador",
+  "away": "Curacao",
+  "date": "2026-06-21",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3019,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3489,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2543,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Tunisia",
+  "away": "Japan",
+  "date": "2026-06-21",
+  "score": "0-4",
+  "props": {
+   "over2.5": {
+    "p": 0.1955,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2207,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0193,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Uruguay",
+  "away": "Cape Verde Islands",
+  "date": "2026-06-21",
+  "score": "2-2",
+  "props": {
+   "over2.5": {
+    "p": 0.2974,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3201,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2884,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Argentina",
+  "away": "Austria",
+  "date": "2026-06-22",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.355,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3749,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.307,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "New Zealand",
+  "away": "Egypt",
+  "date": "2026-06-22",
+  "score": "1-3",
+  "props": {
+   "over2.5": {
+    "p": 0.2074,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2792,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.195,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "Iraq",
+  "date": "2026-06-22",
+  "score": "3-0",
+  "props": {
+   "over2.5": {
+    "p": 0.4637,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3866,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.4427,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Portugal",
+  "away": "Uzbekistan",
+  "date": "2026-06-23",
+  "score": "5-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5238,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5267,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.3397,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Panama",
+  "away": "Croatia",
+  "date": "2026-06-23",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.5133,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5485,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2755,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Norway",
+  "away": "Senegal",
+  "date": "2026-06-23",
+  "score": "3-2",
+  "props": {
+   "over2.5": {
+    "p": 0.6078,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5967,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3557,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Jordan",
+  "away": "Algeria",
+  "date": "2026-06-23",
+  "score": "1-2",
+  "props": {
+   "over2.5": {
+    "p": 0.4807,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5442,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.198,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "England",
+  "away": "Ghana",
+  "date": "2026-06-23",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3764,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3503,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.3709,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Switzerland",
+  "away": "Canada",
+  "date": "2026-06-24",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4788,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4803,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3399,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Scotland",
+  "away": "Brazil",
+  "date": "2026-06-24",
+  "score": "0-3",
+  "props": {
+   "over2.5": {
+    "p": 0.3958,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4457,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0681,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Colombia",
+  "away": "Congo DR",
+  "date": "2026-06-24",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3543,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4092,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2487,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Bosnia and Herzegovina",
+  "away": "Qatar",
+  "date": "2026-06-24",
+  "score": "3-1",
+  "props": {
+   "over2.5": {
+    "p": 0.7623,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6185,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.5714,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Morocco",
+  "away": "Haiti",
+  "date": "2026-06-24",
+  "score": "4-2",
+  "props": {
+   "over2.5": {
+    "p": 0.4133,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2788,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.4872,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Ecuador",
+  "away": "Germany",
+  "date": "2026-06-25",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.3781,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4543,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1004,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Tunisia",
+  "away": "Netherlands",
+  "date": "2026-06-25",
+  "score": "1-3",
+  "props": {
+   "over2.5": {
+    "p": 0.4056,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3049,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0136,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "South Africa",
+  "away": "Korea Republic",
+  "date": "2026-06-25",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3908,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4537,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0822,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Czech Republic",
+  "away": "Mexico",
+  "date": "2026-06-25",
+  "score": "0-3",
+  "props": {
+   "over2.5": {
+    "p": 0.244,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2916,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.034,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Japan",
+  "away": "Sweden",
+  "date": "2026-06-25",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.7117,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.444,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.677,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Curacao",
+  "away": "C\u00f4te d'Ivoire",
+  "date": "2026-06-25",
+  "score": "0-2",
+  "props": {
+   "over2.5": {
+    "p": 0.2812,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2719,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0195,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Norway",
+  "away": "France",
+  "date": "2026-06-26",
+  "score": "1-4",
+  "props": {
+   "over2.5": {
+    "p": 0.5913,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6248,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1659,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Paraguay",
+  "away": "Australia",
+  "date": "2026-06-26",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.2241,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3162,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.147,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "T\u00fcrkiye",
+  "away": "United States",
+  "date": "2026-06-26",
+  "score": "3-2",
+  "props": {
+   "over2.5": {
+    "p": 0.5228,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5413,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0812,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Senegal",
+  "away": "Iraq",
+  "date": "2026-06-26",
+  "score": "5-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5359,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4278,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.4845,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Uruguay",
+  "away": "Spain",
+  "date": "2026-06-27",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.3711,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3527,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0268,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Colombia",
+  "away": "Portugal",
+  "date": "2026-06-27",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.713,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.7206,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2292,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Croatia",
+  "away": "Ghana",
+  "date": "2026-06-27",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.3221,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.4162,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1534,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "New Zealand",
+  "away": "Belgium",
+  "date": "2026-06-27",
+  "score": "1-5",
+  "props": {
+   "over2.5": {
+    "p": 0.8224,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.7823,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3795,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Egypt",
+  "away": "Iran",
+  "date": "2026-06-27",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.2127,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2244,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2774,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Cape Verde Islands",
+  "away": "Saudi Arabia",
+  "date": "2026-06-27",
+  "score": "0-0",
+  "props": {
+   "over2.5": {
+    "p": 0.247,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3232,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2009,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Congo DR",
+  "away": "Uzbekistan",
+  "date": "2026-06-27",
+  "score": "3-1",
+  "props": {
+   "over2.5": {
+    "p": 0.2117,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2584,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2344,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Panama",
+  "away": "England",
+  "date": "2026-06-27",
+  "score": "0-2",
+  "props": {
+   "over2.5": {
+    "p": 0.412,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3932,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.032,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "South Africa",
+  "away": "Canada",
+  "date": "2026-06-28",
+  "score": "0-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4453,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4708,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0594,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Algeria",
+  "away": "Austria",
+  "date": "2026-06-28",
+  "score": "3-3",
+  "props": {
+   "over2.5": {
+    "p": 0.4927,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5326,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2698,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Jordan",
+  "away": "Argentina",
+  "date": "2026-06-28",
+  "score": "1-3",
+  "props": {
+   "over2.5": {
+    "p": 0.4859,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3526,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0143,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Germany",
+  "away": "Paraguay",
+  "date": "2026-06-29",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4898,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4662,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3817,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Brazil",
+  "away": "Japan",
+  "date": "2026-06-29",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.2661,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3684,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1342,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "C\u00f4te d'Ivoire",
+  "away": "Norway",
+  "date": "2026-06-30",
+  "score": "1-2",
+  "props": {
+   "over2.5": {
+    "p": 0.3569,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3588,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3322,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "Sweden",
+  "date": "2026-06-30",
+  "score": "3-0",
+  "props": {
+   "over2.5": {
+    "p": 0.6801,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.5406,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.5482,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Netherlands",
+  "away": "Morocco",
+  "date": "2026-06-30",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.3405,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.4165,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2091,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "England",
+  "away": "Congo DR",
+  "date": "2026-07-01",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.306,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3322,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2927,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Belgium",
+  "away": "Senegal",
+  "date": "2026-07-01",
+  "score": "2-2",
+  "props": {
+   "over2.5": {
+    "p": 0.5834,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6201,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.2375,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Mexico",
+  "away": "Ecuador",
+  "date": "2026-07-01",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.0883,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.1755,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.0873,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Spain",
+  "away": "Austria",
+  "date": "2026-07-02",
+  "score": "3-0",
+  "props": {
+   "over2.5": {
+    "p": 0.6079,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3078,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.6693,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Portugal",
+  "away": "Croatia",
+  "date": "2026-07-02",
+  "score": "2-1",
+  "props": {
+   "over2.5": {
+    "p": 0.6903,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6068,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.4765,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "United States",
+  "away": "Bosnia and Herzegovina",
+  "date": "2026-07-02",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.6543,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5166,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.5413,
+    "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Australia",
+  "away": "Egypt",
+  "date": "2026-07-03",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.1561,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2582,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1071,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Switzerland",
+  "away": "Algeria",
+  "date": "2026-07-03",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.5904,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5021,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.4743,
+    "outcome": 1
+   }
+  }
+ }
+]
