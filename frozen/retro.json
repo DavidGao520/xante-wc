@@ -1771,15 +1771,36 @@
   "score": "1-1",
   "props": {
    "over2.5": {
-    "p": 0.1561,
+    "p": 0.1584,
     "outcome": 0
    },
    "btts": {
-    "p": 0.2582,
+    "p": 0.2611,
     "outcome": 1
    },
    "home_-1.5": {
-    "p": 0.1071,
+    "p": 0.1091,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Argentina",
+  "away": "Cape Verde Islands",
+  "date": "2026-07-03",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4698,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.2722,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.5569,
     "outcome": 0
    }
   }
@@ -1792,16 +1813,37 @@
   "score": "2-0",
   "props": {
    "over2.5": {
-    "p": 0.5904,
+    "p": 0.5852,
     "outcome": 0
    },
    "btts": {
-    "p": 0.5021,
+    "p": 0.5029,
     "outcome": 0
    },
    "home_-1.5": {
-    "p": 0.4743,
+    "p": 0.4667,
     "outcome": 1
+   }
+  }
+ },
+ {
+  "retro": true,
+  "home": "Colombia",
+  "away": "Ghana",
+  "date": "2026-07-04",
+  "score": "1-0",
+  "props": {
+   "over2.5": {
+    "p": 0.3277,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3792,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.2583,
+    "outcome": 0
    }
   }
  }
