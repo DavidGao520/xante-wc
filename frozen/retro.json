@@ -1888,5 +1888,26 @@
     "outcome": 0
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "Brazil",
+  "away": "Norway",
+  "date": "2026-07-05",
+  "score": "1-2",
+  "props": {
+   "over2.5": {
+    "p": 0.611,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.6131,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3108,
+    "outcome": 0
+   }
+  }
  }
 ]
