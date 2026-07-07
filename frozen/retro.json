@@ -1954,6 +1954,27 @@
  },
  {
   "retro": true,
+  "home": "Argentina",
+  "away": "Egypt",
+  "date": "2026-07-07",
+  "score": "3-2",
+  "props": {
+   "over2.5": {
+    "p": 0.2719,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.2383,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.3445,
+    "outcome": 0
+   }
+  }
+ },
+ {
+  "retro": true,
   "home": "United States",
   "away": "Belgium",
   "date": "2026-07-07",
