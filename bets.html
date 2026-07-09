@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>xAnte WC — paper bet blotter</title>
+<style>
+ body{font:14px/1.5 -apple-system,"Segoe UI",sans-serif;color:#1a1a1a;background:#fff;
+      max-width:1080px;margin:0 auto;padding:24px 16px}
+ h1{font-size:20px} .dim{color:#777} .pos{color:#137333} .neg{color:#c5221f}
+ .cards{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0 20px}
+ .card{background:#f5f5f4;border-radius:8px;padding:12px 16px;min-width:170px}
+ .card .k{font-size:12px;color:#777} .card .v{font-size:20px;font-weight:600}
+ .card .n{font-size:11px;color:#777;margin-top:2px}
+ .scroll{overflow-x:auto} table{border-collapse:collapse;font-size:12.5px;width:100%}
+ th,td{padding:5px 8px;border-bottom:1px solid #e5e5e5;white-space:nowrap;text-align:left}
+ th{color:#555;font-weight:600}
+ .foot{color:#777;font-size:12px;margin-top:16px;border-top:1px solid #e5e5e5;padding-top:10px}
+</style></head><body>
+<h1>Paper bet blotter</h1>
+<p class="dim">Every simulated bet the model places, as it happens · updated 2026-07-09T00:54:46Z
+ · <a href="bets.csv">bets.csv</a> · <a href="index.html">predictions</a></p>
+<div class="cards"></div>
+<p class="dim">No bets yet — the first window opens 60 minutes before kickoff.</p><div class="scroll"><table>
+<tr><th>#</th><th>time</th><th>match</th><th>market</th><th>strategy</th><th>side</th>
+<th>price</th><th>qty</th><th>spend</th><th>fee</th><th>min</th><th>outcome</th>
+<th>P&amp;L</th><th>CLV</th><th>model</th></tr>
+</table></div>
+<div class="foot">Paper account — no real orders. Fills simulated as taker at the
+displayed Kalshi touch, 7% taker fee netted. Three independent $500 books:
+Wings (deep overs / ±1.5 spreads), Full distribution (any prop with model edge),
+In-game (conditional model, updated every 2 minutes during play). Settlement:
+regulation time. CLV = entry vs pre-kickoff closing mid, in cents.</div>
+</body></html>
