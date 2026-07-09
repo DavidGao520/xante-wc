@@ -30,3 +30,4 @@ bet,ts_utc,match,market,prop,ticker,strategy,model,side,price,qty,spend,fee,minu
 29,2026-07-09T21:20:17Z,FRA–MAR,Draw,draw,KXWCGAME-26JUL09FRAMAR-TIE,Half-time xG,v1.6+B2-k30@HT|tracked,YES,0.35,1,0.35,0.02,55,0.4038,0.345,,,
 30,2026-07-09T21:24:51Z,FRA–MAR,France win,home_win,KXWCGAME-26JUL09FRAMAR-FRA,Half-time xG,v1.6+B2-k30@HT,YES,0.84,36,30.24,0.34,60,0.9352,0.835,,,
 31,2026-07-09T21:24:51Z,FRA–MAR,France -1.5,home_by2,KXWCSPREAD-26JUL09FRAMAR-FRA2,Half-time xG,v1.6+B2-k30@HT,YES,0.42,18,7.56,0.31,60,0.5116,0.415,,,
+32,2026-07-09T21:41:04Z,FRA–MAR,France -1.5,home_by2,KXWCSPREAD-26JUL09FRAMAR-FRA2,In-game,v1.6+uniform-frac,YES,0.86,10,8.6,0.08,76,0.8953,0.855,,,
