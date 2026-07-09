@@ -1,0 +1,73 @@
+{
+ "at_freeze": {
+  "home_win": {
+   "mid": 0.045
+  },
+  "draw": {
+   "mid": 0.125
+  },
+  "away_win": {
+   "mid": 0.835
+  },
+  "over0.5": {
+   "mid": 0.955
+  },
+  "over1.5": {
+   "mid": 0.835
+  },
+  "over2.5": {
+   "mid": 0.595
+  },
+  "over3.5": {
+   "mid": 0.355
+  },
+  "over4.5": {
+   "mid": 0.175
+  },
+  "btts": {
+   "mid": 0.405
+  },
+  "away_by2": {
+   "mid": 0.605
+  }
+ },
+ "freeze_ts": "2026-07-04T19:33:58+00:00",
+ "freeze_source": "candlesticks",
+ "at_close": {
+  "home_win": {
+   "mid": 0.045
+  },
+  "draw": {
+   "mid": 0.135
+  },
+  "away_win": {
+   "mid": 0.815
+  },
+  "over0.5": {
+   "mid": 0.955
+  },
+  "over1.5": {
+   "mid": 0.805
+  },
+  "over2.5": {
+   "mid": 0.575
+  },
+  "over3.5": {
+   "mid": 0.335
+  },
+  "over4.5": {
+   "mid": 0.165
+  },
+  "btts": {
+   "mid": 0.405
+  },
+  "home_by2": {
+   "mid": 0.015
+  },
+  "away_by2": {
+   "mid": 0.575
+  }
+ },
+ "close_ts": "2026-07-04T21:00:00+00:00",
+ "close_source": "candlesticks"
+}
