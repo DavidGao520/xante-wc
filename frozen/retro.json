@@ -3550,5 +3550,42 @@
     "outcome": 1
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "Morocco",
+  "date": "2026-07-09",
+  "score": "2-0",
+  "props": {
+   "over2.5": {
+    "p": 0.2534,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.3483,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.1267,
+    "outcome": 1
+   },
+   "over3.5": {
+    "p": 0.0993,
+    "outcome": 0
+   },
+   "over4.5": {
+    "p": 0.0322,
+    "outcome": 0
+   },
+   "home_-2.5": {
+    "p": 0.0337,
+    "outcome": 0
+   },
+   "away_-2.5": {
+    "p": 0.0248,
+    "outcome": 0
+   }
+  }
  }
 ]
