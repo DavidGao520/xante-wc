@@ -43,3 +43,4 @@ bet,ts_utc,match,market,prop,ticker,strategy,model,side,price,qty,spend,fee,minu
 42,2026-07-10T19:06:39Z,ESP–BEL,Spain -1.5,home_by2,KXWCSPREAD-26JUL10ESPBEL-ESP2,In-game,v1.6+uniform-frac,NO,0.67,9,6.03,0.14,5,0.2813,0.335,,,
 43,2026-07-10T19:08:57Z,ESP–BEL,Draw,draw,KXWCGAME-26JUL10ESPBEL-TIE,In-game,v1.6+uniform-frac,YES,0.24,7,1.68,0.09,8,0.2769,0.235,,,
 44,2026-07-10T19:08:57Z,ESP–BEL,Over 2.5,over2.5,KXWCTOTAL-26JUL10ESPBEL-3,In-game,v1.6+uniform-frac,NO,0.47,17,7.99,0.3,8,0.4425,0.535,,,
+45,2026-07-10T19:13:36Z,ESP–BEL,Over 0.5,over0.5,KXWCTOTAL-26JUL10ESPBEL-1,In-game,v1.6+uniform-frac,NO,0.08,10,0.8,0.05,12,0.8919,0.925,,,
