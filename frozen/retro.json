@@ -3624,5 +3624,42 @@
     "outcome": 0
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "Norway",
+  "away": "England",
+  "date": "2026-07-11",
+  "score": "1-1",
+  "props": {
+   "over2.5": {
+    "p": 0.4915,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5374,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1111,
+    "outcome": 0
+   },
+   "over3.5": {
+    "p": 0.2727,
+    "outcome": 0
+   },
+   "over4.5": {
+    "p": 0.1283,
+    "outcome": 0
+   },
+   "home_-2.5": {
+    "p": 0.034,
+    "outcome": 0
+   },
+   "away_-2.5": {
+    "p": 0.092,
+    "outcome": 0
+   }
+  }
  }
 ]
