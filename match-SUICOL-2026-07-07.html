@@ -63,7 +63,7 @@ function _rpInit(){
    r.children[1].textContent=fmt(mod);r.children[2].textContent=fmt(f.mkt[p]);});
   lbl.textContent=Math.round(f.minute)+"' \u00b7 "+f.score[0]+'\u2013'+f.score[1]+
    (f.xg?' \u00b7 xG '+f.xg[0].toFixed(2)+'\u2013'+f.xg[1].toFixed(2):'')+
-   ' \u00b7 '+(f.grid_b2?'B2 live-xG':'uniform')+' \u00b7 '+f.ts.slice(11,16)+'Z';
+   ' \u00b7 '+(f.grid_b2?'live-xG cond.':'uniform')+' \u00b7 '+f.ts.slice(11,16)+'Z';
  }
  s.oninput=draw;
  let t=null;
