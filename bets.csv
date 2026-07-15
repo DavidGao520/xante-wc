@@ -226,3 +226,4 @@ bet,ts_utc,match,market,prop,ticker,strategy,model,side,price,qty,spend,fee,minu
 225,2026-07-15T20:17:54Z,ENG–ARG,England win,home_win,KXWCGAME-26JUL15ENGARG-ENG,HT xG,v1.6+M5+B2P-k30@HT,YES,0.66,38,25.08,0.6,57,0.8341,0.655,,,
 226,2026-07-15T20:46:31Z,ENG–ARG,Both teams to score,btts,KXWCBTTS-26JUL15ENGARG-BTTS,In-game,v1.6+M5+uniform-frac,YES,0.96,12,11.52,0.03,85,1.0,0.95,,,
 227,2026-07-15T20:46:31Z,ENG–ARG,Both teams to score,btts,KXWCBTTS-26JUL15ENGARG-BTTS,HT xG,v1.6+M5+B2P-k30@HT,YES,0.96,13,12.48,0.04,85,1.0,0.95,,,
+228,2026-07-15T20:53:42Z,ENG–ARG,Argentina -1.5,away_by2,KXWCSPREAD-26JUL15ENGARG-ARG2,In-game,v1.6+M5+uniform-frac,NO,0.87,5,4.35,0.04,92,0.0222,0.135,,,
