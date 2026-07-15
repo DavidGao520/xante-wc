@@ -3698,5 +3698,42 @@
     "outcome": 0
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "Spain",
+  "date": "2026-07-14",
+  "score": "0-2",
+  "props": {
+   "over2.5": {
+    "p": 0.4392,
+    "outcome": 0
+   },
+   "btts": {
+    "p": 0.5025,
+    "outcome": 0
+   },
+   "home_-1.5": {
+    "p": 0.118,
+    "outcome": 0
+   },
+   "over3.5": {
+    "p": 0.2285,
+    "outcome": 0
+   },
+   "over4.5": {
+    "p": 0.1002,
+    "outcome": 0
+   },
+   "home_-2.5": {
+    "p": 0.0355,
+    "outcome": 0
+   },
+   "away_-2.5": {
+    "p": 0.0717,
+    "outcome": 0
+   }
+  }
  }
 ]
