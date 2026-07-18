@@ -3735,5 +3735,42 @@
     "outcome": 0
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "England",
+  "away": "Argentina",
+  "date": "2026-07-15",
+  "score": "1-2",
+  "props": {
+   "over2.5": {
+    "p": 0.2721,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.3461,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.0614,
+    "outcome": 0
+   },
+   "over3.5": {
+    "p": 0.1104,
+    "outcome": 0
+   },
+   "over4.5": {
+    "p": 0.0372,
+    "outcome": 0
+   },
+   "home_-2.5": {
+    "p": 0.0125,
+    "outcome": 0
+   },
+   "away_-2.5": {
+    "p": 0.0635,
+    "outcome": 0
+   }
+  }
  }
 ]
