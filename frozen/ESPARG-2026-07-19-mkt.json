@@ -57,5 +57,64 @@
   }
  },
  "freeze_ts": "2026-07-19T18:39:41+00:00",
- "freeze_source": "live"
+ "freeze_source": "live",
+ "at_close": {
+  "home_win": {
+   "bid": 0.42,
+   "ask": 0.43,
+   "mid": 0.425
+  },
+  "draw": {
+   "bid": 0.32,
+   "ask": 0.33,
+   "mid": 0.325
+  },
+  "away_win": {
+   "bid": 0.26,
+   "ask": 0.27,
+   "mid": 0.265
+  },
+  "over0.5": {
+   "bid": 0.88,
+   "ask": 0.89,
+   "mid": 0.885
+  },
+  "over1.5": {
+   "bid": 0.7,
+   "ask": 0.71,
+   "mid": 0.705
+  },
+  "over2.5": {
+   "bid": 0.43,
+   "ask": 0.44,
+   "mid": 0.435
+  },
+  "over3.5": {
+   "bid": 0.24,
+   "ask": 0.25,
+   "mid": 0.245
+  },
+  "over4.5": {
+   "bid": 0.11,
+   "ask": 0.12,
+   "mid": 0.115
+  },
+  "btts": {
+   "bid": 0.55,
+   "ask": 0.56,
+   "mid": 0.555
+  },
+  "home_by2": {
+   "bid": 0.2,
+   "ask": 0.22,
+   "mid": 0.21
+  },
+  "away_by2": {
+   "bid": 0.1,
+   "ask": 0.11,
+   "mid": 0.105
+  }
+ },
+ "close_ts": "2026-07-19T19:01:01+00:00",
+ "close_source": "live"
 }
