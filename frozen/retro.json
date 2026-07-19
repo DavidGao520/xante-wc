@@ -3772,5 +3772,42 @@
     "outcome": 0
    }
   }
+ },
+ {
+  "retro": true,
+  "home": "France",
+  "away": "England",
+  "date": "2026-07-18",
+  "score": "4-6",
+  "props": {
+   "over2.5": {
+    "p": 0.4077,
+    "outcome": 1
+   },
+   "btts": {
+    "p": 0.478,
+    "outcome": 1
+   },
+   "home_-1.5": {
+    "p": 0.1861,
+    "outcome": 0
+   },
+   "over3.5": {
+    "p": 0.2035,
+    "outcome": 1
+   },
+   "over4.5": {
+    "p": 0.0854,
+    "outcome": 1
+   },
+   "home_-2.5": {
+    "p": 0.0647,
+    "outcome": 0
+   },
+   "away_-2.5": {
+    "p": 0.0337,
+    "outcome": 0
+   }
+  }
  }
 ]
